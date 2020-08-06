@@ -1,1 +1,1 @@
-# user-config
+# demo-config
