@@ -22,3 +22,4 @@ eureka:
     lease-renewal-interval-in-seconds: 5
     #剔除时间，默认90s
     lease-expiration-duration-in-seconds: 5
+test: fuckyou
